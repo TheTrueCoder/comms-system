@@ -1,0 +1,1 @@
+graymatter daemon ready: dir=/home/nathan/comms-system/.graymatter addr=unix:///home/nathan/comms-system/.graymatter/graymatter.sock pid=1718 idle-exit=2m0s

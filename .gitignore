@@ -1,0 +1,6 @@
+.pio/
+sdkconfig
+sdkconfig.esp32-s3-devkitc-1
+compile_commands.json
+.vscode/
+.DS_Store

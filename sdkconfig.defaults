@@ -1,0 +1,7 @@
+# Applied only when sdkconfig.esp32-s3-devkitc-1 does not exist yet.
+# Delete that generated file (or run `pio run -t fullclean`) after changing this.
+
+CONFIG_ESPTOOLPY_FLASHSIZE_8MB=y
+CONFIG_ESP_MAIN_TASK_STACK_SIZE=4096
+CONFIG_FREERTOS_HZ=1000
+CONFIG_LOG_DEFAULT_LEVEL_INFO=y
